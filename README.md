@@ -1,2 +1,2 @@
-# Minha-Primeira-P-gina-html
+# Minha-Primeira-Pagina-html
 Primeiro exercício do curso de Front-End com HTML
